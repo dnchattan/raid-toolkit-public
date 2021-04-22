@@ -3,9 +3,13 @@
 ***RAID Toolkit*** is a companion application designed to be run alongside *RAID: Shadow Legends* and will provide additional features and aids to players.
 ***This is NOT built as a cheating application, and will never entertain providing capabilities which could not be accomplished without the tool.***
 
+***This tool will always be free. If you want to support its development, you're welcome to donate; but it is not a requirement to use and enjoy the tool.***
+
+
 [Download latest release](http://raid-bot.eastus.azurecontainer.io/hazel)
 
-> This tool will always be free. If you want to support its development, you're welcome to donate; but it is not a requirement to use and enjoy the tool.
+> ***NOTE:*** You will be warned by Chrome/Windows that the file is not from a recognized publisher and may be unsafe. You'll have to click "more info" and keep/allow in order to install the tool. If you are not comfortable doing this, you will not be able to run the tool.
+
 
 ## What is the Toolkit?
 
