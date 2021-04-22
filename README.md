@@ -48,4 +48,6 @@ You can enable a local `rest` endpoint from the tool which will allow you to imp
 ## Why is this tool not open source?
 Because of *how* this application is designed and coded, there's enough risk that others could use its code for malicious purposes (such as cheating) in the game, and that is not something I want to facilitate. While these things could be done without this applications code, it requires a decent amount of work and internal knowledge of how the Unity Engine and il2cpp works to accomplish.
 
+Open sourcing could easily cause the need to shut down many of these otherwise useful tools, and this is a dillema many other tools have encountered and chosen to stay closed-source. So rather than open-sourcing, this tool opens up its data API, limited to safe and reasonable data from the game in order to give the best alternative to sharing the capabilities it provides.
+
 I do plan to release the libraries I've created for code generation using il2js metadata at a later date once I can generalize them further than they are today.
