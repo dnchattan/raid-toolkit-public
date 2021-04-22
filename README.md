@@ -3,11 +3,19 @@
 ***RAID Toolkit*** is a companion application designed to be run alongside *RAID: Shadow Legends* and will provide additional features and aids to players.
 ***This is NOT built as a cheating application, and will never entertain providing capabilities which could not be accomplished without the tool.***
 
-First and foremost, while this tool provides immediate player value in being able to explore and see their account data- its larger objective is to provide a launchpad for more innovations on this data. Currently, there's a lot of great tools out there, but many of them are closed-source and creating a new tool means starting from near zero. By exposing as much of the data this tool operates on to any developer via an API, the hope is that more people can leverage this tool as a platform for their own innovations and not worry about the nitty gritty details of *getting* the data :).
-
-If you want to build atop this tool, I only ask that you release your tool for free to the public.
-
 [Download latest release](http://raid-bot.eastus.azurecontainer.io/hazel)
+
+> This tool will always be free. If you want to support its development, you're welcome to donate; but it is not a requirement to use and enjoy the tool.
+
+## What is the Toolkit?
+
+First and foremost, while this tool provides immediate player value in being able to explore and see their account data- its larger objective is to provide a launchpad for more innovations on this data. If you're just interested in using the current features of this tool, check out its (Current Features)[#CurrentFeatures] below.
+
+Currently, there's a lot of great tools out there, but many of them are closed-source and creating a new tool means starting from near zero. By exposing as much of the data this tool operates on to any developer via an API, the hope is that more people can leverage this tool as a platform for their own innovations and not worry about the nitty gritty details of *getting* the data 😀.
+
+* If you want to build atop this tool- whether it be a spreadsheet, another standalone tool, or otherwise, I do ask that you release your tool for free to the public to help build an open community of tool creators. 
+
+* If you are interested in integrating your tool or feature into the Toolkit itself, please reach out. I am considering building a plugin system that would make it easier to group these together in one experience. 
 
 ## Current features
 
