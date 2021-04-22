@@ -9,7 +9,7 @@
 
 ## What is the Toolkit?
 
-First and foremost, while this tool provides immediate player value in being able to explore and see their account data- its larger objective is to provide a launchpad for more innovations on this data. If you're just interested in using the current features of this tool, check out its (Current Features)[#CurrentFeatures] below.
+First and foremost, while this tool provides immediate player value in being able to explore and see their account data- its larger objective is to provide a launchpad for more innovations on this data. If you're just interested in using the current features of this tool, check out its [Current Features](#CurrentFeatures) below.
 
 Currently, there's a lot of great tools out there, but many of them are closed-source and creating a new tool means starting from near zero. By exposing as much of the data this tool operates on to any developer via an API, the hope is that more people can leverage this tool as a platform for their own innovations and not worry about the nitty gritty details of *getting* the data 😀.
 
